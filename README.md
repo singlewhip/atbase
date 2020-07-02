@@ -58,7 +58,3 @@ http://127.0.0.1:8000/admin/
 
 ## 如何执行测试脚本 
 [点击查看如何执行测试](https://github.com/radiateboy/automagic/wiki/Seleniumkeyword%E4%BB%8B%E7%BB%8D)
-## 公众号
-扫一扫关注公众号
-
-![开源优测](https://gitee.com/tsbc/automagic/raw/master/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
